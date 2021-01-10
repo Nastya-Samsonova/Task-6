@@ -69,13 +69,4 @@ public class Main {
     private static void printResult(String text, double result) {
         System.out.println(text + result);
     }
-
-
-
-
-
-
-
-
-
 }
